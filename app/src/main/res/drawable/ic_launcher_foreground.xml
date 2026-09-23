@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Star of Excellence at top (54, 30) -->
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M54,23 L56.2,28.2 L61.8,28.7 L57.5,32.4 L58.8,37.8 L54,34.9 L49.2,37.8 L50.5,32.4 L46.2,28.7 L51.8,28.2 Z" />
+
+    <!-- Open Book Left Page -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M52,43 C44,40 34,41 26,45 L26,71 C34,67 44,66 52,69 Z" />
+
+    <!-- Open Book Right Page -->
+    <path
+        android:fillColor="#E2E8F0"
+        android:pathData="M56,43 C64,40 74,41 82,45 L82,71 C74,67 64,66 56,69 Z" />
+
+    <!-- Spine / Center Bookmark Ribbon -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M52,42 L56,42 L56,76 L54,74 L52,76 Z" />
+
+    <!-- Left Page Lines -->
+    <path
+        android:fillColor="#CBD5E1"
+        android:pathData="M31,52 L47,48 L47,49.5 L31,53.5 Z M31,57 L47,53 L47,54.5 L31,58.5 Z M31,62 L45,58.5 L45,60 L31,63.5 Z" />
+
+    <!-- Right Page Lines -->
+    <path
+        android:fillColor="#94A3B8"
+        android:pathData="M61,48 L77,52 L77,53.5 L61,49.5 Z M61,53 L77,57 L77,58.5 L61,54.5 Z M61,58.5 L75,62 L75,63.5 L61,60 Z" />
+
+    <!-- Academic Cap Accent / Foundation Bar -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M38,76 L70,76 L66,79 L42,79 Z" />
+</vector>

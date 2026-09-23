@@ -1,0 +1,6 @@
+{
+  "name": "JKSSB Prep",
+  "description": "Interactive JKSSB Exam preparation platform with extensive MCQs, PYQs with written & video solutions, topic drills, performance dashboard, leaderboards, and personalized study planner.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
